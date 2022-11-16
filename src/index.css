@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  .img {
+    position: absolute;
+    top: -.5rem;
+  }
+}
