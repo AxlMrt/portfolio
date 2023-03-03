@@ -13,7 +13,7 @@ function Footer() {
             <FaLinkedin />
             <span className="sr-only">LinkedIn</span>
           </a>
-          <a href="mailto:mrt.axl@protonmail.com" className="text-xl m-1 p-1 sm:p-2 text-black-900 hover:bg-teal-500 rounded-full hover:text-white transition-colors duration-300">
+          <a href="mailto:axel-mrt@axel-martin.fr" className="text-xl m-1 p-1 sm:p-2 text-black-900 hover:bg-teal-500 rounded-full hover:text-white transition-colors duration-300">
             <FaEnvelope />
             <span className="sr-only">Mail</span>
           </a>
@@ -25,7 +25,7 @@ function Footer() {
             💙
           </span>
           by
-          <a href="mailto:mrt.axl@protonmail.com" className="text-blue-500 mx-2 hover:underline">
+          <a href="mailto:axel-mrt@axel-martin.fr" className="text-blue-500 mx-2 hover:underline">
             Axel
           </a>
         </p>
