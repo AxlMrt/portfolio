@@ -7,4 +7,22 @@
     position: absolute;
     top: -.5rem;
   }
+
+  .cards {
+    @apply flex flex-col p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl w-52
+  }
+
+  .cards_text {
+    @apply mt-6 text-xl text-center sm:text-2xl font-semibold
+  }
+
+  .cards_container {
+    @apply max-w-4xl mx-auto py-12
+  }
+
+  .cards_logo {
+    @apply mx-auto text-4xl
+  }
+
+  
 }

@@ -9,12 +9,12 @@ function About() {
         Hey 👋
       </p>
       <p className="text-center text-base text-gray-600 sm:text-2xl leading-relaxed mt-10">
-        Je suis un développeur frontend passionné, avec un intérêt particulier à rendre les choses simples.
+        Je suis un développeur fullstack passionné, avec un intérêt particulier à rendre les choses simples.
         Tous mes projets sont construits de zéro, de la planification à la conception.
       </p>
     <ScrollIntoView selector="#tech">
       <div className="mx-auto mt-6 p-20">
-        <FaChevronDown className="animate-bounce mx-auto text-3xl text-blue-500" />
+        <FaChevronDown className="animate-bounce mx-auto text-3xl cursor-pointer text-blue-500" />
       </div>
     </ScrollIntoView>
     </div>

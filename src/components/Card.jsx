@@ -10,7 +10,7 @@ function Card() {
         </div>
         <div className="text-center mt-5">
           <p className="text-xl sm:text-2xl text-gray-900"> Axel Martin </p>
-          <p className="text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2"> Développeur Frontend</p>
+          <p className="text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2"> Développeur FullStack JS</p>
         </div>
         <div className="flex items-center justify-center mt-4">
           <a href="https://github.com/AxlMrt" className="text-xl m-1 p-1 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300">

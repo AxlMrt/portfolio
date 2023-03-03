@@ -1,0 +1,29 @@
+  .cards_container {
+    max-width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    @apply mx-auto
+  }
+
+  .cards {
+    display: flex;
+    flex-direction: column;
+    padding: 2.5rem;
+    margin: 1.5rem;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+    border-radius: 1rem;
+    @apply w-52;
+  }
+
+  .cards_text {
+    margin-top: 1.5rem;
+    text-align: center;
+    @apply font-semibold ;
+  }
+
+  .cards_logo {
+    @apply mx-auto text-4xl
+  }
